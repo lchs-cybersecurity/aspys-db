@@ -1,0 +1,5 @@
+# Automatically appended by setup script
+
+[mysqld]
+bind-address = 0.0.0.0
+
